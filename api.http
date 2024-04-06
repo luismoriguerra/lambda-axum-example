@@ -1,0 +1,19 @@
+
+
+@lambdaid=74vcsrbalj72ku2tajy5bsexca0qbudp
+
+### 
+GET https://{{lambdaid}}.lambda-url.us-west-2.on.aws/
+### 
+GET https://{{lambdaid}}.lambda-url.us-west-2.on.aws/books
+
+### 
+GET https://{{lambdaid}}.lambda-url.us-west-2.on.aws/books/86d5819b-cfdb-4374-87b8-d637c04d50a2
+
+
+###
+Get http://127.0.0.1:9000/
+###
+Get http://127.0.0.1:9000/books
+###
+Get http://127.0.0.1:9000/books/a6d5943c-71d8-49f7-b941-bed6b5375b19

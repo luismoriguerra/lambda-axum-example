@@ -1,0 +1,7 @@
+cargo add uuid -F serde,v4
+cargo add chrono -F serde
+cargo add serde -F derive
+cargo add serde-json
+
+cargo add aws-config -F behavior-version-latest
+cargo add aws-sdk-dynamodb
